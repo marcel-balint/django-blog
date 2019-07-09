@@ -1,10 +1,12 @@
 dj-database-url==0.5.0
 astroid==1.6.6
 awscli==1.16.169
+whitenoise==4.1.2
 botocore==1.12.159
 colorama==0.3.9
 Django==1.11
 django-forms-bootstrap==3.1.0
+gunicorn==19.9.0
 Pillow==6.1.0
 psycopg2-binary==2.8.3
 docutils==0.14
